@@ -1,4 +1,4 @@
-# oden-recipes
+# odin-recipes
 
 Basic HTML project that contains a main page plus 3 pages for different recipes. The main page has links to each of the recipe pages and each recipe page has a link back to the main page.
 
