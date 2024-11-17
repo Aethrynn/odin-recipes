@@ -1,0 +1,55 @@
+.page-title {
+    text-align: center;
+    background-color: black;
+    color: orange;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.header {
+    font-size: 24px;
+    text-align: center;
+}
+
+#description {
+    background-color: brown;
+    color: white;
+}
+
+#ingredients {
+    text-align: left;
+    font-size: 28px;
+    background-color: orange;
+}
+
+#steps {
+    text-align: left;
+    color: darkgreen;
+}
+
+ul {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+ol {
+    font-size: 20px;
+}
+
+li {
+    text-align: left;
+}
+
+a {
+    color: blue;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
